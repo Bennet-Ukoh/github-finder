@@ -1,4 +1,4 @@
-# GitHub User Search App
+# GitHub Finder App
 
 This mini project is part of the Software Development Pathway on the 3mtt - NITDA programme, supervised by the Dare.io platform. The goal of the project is to build a functional React component that fetches data from an API and displays a list of items. The project emphasizes component reusability and separation of concerns by creating a reusable list component.
 
