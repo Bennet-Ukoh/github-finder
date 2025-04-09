@@ -39,7 +39,7 @@ _Fetch and Display List from an API_
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/github-user-search-app.git
+   git clone https://github.com/Bennet-Ukoh/github-finder.git
 
    ```
 
